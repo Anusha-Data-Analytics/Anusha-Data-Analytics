@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Anusha 👋
 
-<!--
-**Anusha-Data-Analytics/Anusha-Data-Analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst skilled in Python, SQL, Power BI, EDA, KPI analysis, and dashboarding.
 
-Here are some ideas to get you started:
+## 🔍 Areas of Interest
+- Business Analytics
+- Customer Behavior Analysis
+- KPI Reporting
+- Dashboard Development
+- Churn & Retention Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python
+- SQL
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## 📌 Featured Project
+### EduMax – Churn & Behavioral Analytics
+Analyzed user engagement and dropout behavior using Python and Power BI to identify retention gaps and behavioral churn patterns.
+
+🔗 Project Link:
+[EduMax Project](https://github.com/Anusha-Data-Analytics/edumax-dropout-analysis/tree/main)
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/anusha-e-m
+- Email: anu.mahanthesh.2468@gmail.com
