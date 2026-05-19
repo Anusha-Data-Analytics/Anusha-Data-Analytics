@@ -17,6 +17,7 @@ Data Analyst skilled in Python, SQL, Power BI, EDA, KPI analysis, and dashboardi
 - NumPy
 - Matplotlib
 - Seaborn
+- Advance Excel
 
 ## 📌 Featured Project
 ### EduMax – Churn & Behavioral Analytics
