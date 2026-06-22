@@ -1,48 +1,33 @@
 # Hi, I'm Anusha 👋
 
-### Data Analyst | SQL | Python | Power BI | Business Analytics
+**Data Analyst | SQL | Python | Power BI | Business Analytics**
 
-Data Analyst with 2+ years of experience in data analysis, KPI reporting, dashboard development, and business insights generation. Passionate about transforming raw data into actionable insights that support business growth and data-driven decision-making.
+Data Analyst with 2+ years of experience in business analytics, KPI reporting, dashboard development, and data-driven decision support. Experienced in transforming complex datasets into actionable insights that help stakeholders understand performance, identify opportunities, and make informed business decisions.
+
+My work focuses on business problem-solving through data, including revenue analysis, customer behavior analytics, retention analysis, segmentation, performance monitoring, and root cause investigations. I enjoy approaching analytics from a stakeholder perspective—understanding the business question, validating assumptions, and translating findings into meaningful insights.
 
 ---
 
-## 🔍 Areas of Expertise
+### Core Areas of Interest
 
 * Business Analytics
-* Revenue & Profitability Analysis
-* Sales Performance Analysis
-* Customer Behavior Analytics
-* KPI Reporting & Monitoring
-* Dashboard Development
-* Stakeholder Reporting
-* Churn & Retention Analytics
-* Exploratory Data Analysis (EDA)
-* Data Storytelling
+* Revenue & Growth Analysis
+* Customer & User Behavior Analytics
+* Churn & Retention Analysis
+* KPI Development & Performance Monitoring
+* Root Cause Analysis
+* Data Storytelling & Stakeholder Reporting
 
 ---
 
-## 🛠 Technical Skills
+### Tech Stack
 
-### Programming & Analytics
-
-* Python (Pandas, NumPy)
 * SQL
-* Statistical Analysis
-* Data Cleaning & Validation
-* Exploratory Data Analysis (EDA)
-
-### Business Intelligence
-
+* Python (Pandas, NumPy)
 * Power BI
-* Dashboard Development
-* KPI Tracking
-* Data Visualization
-
-### Tools
-
 * Advanced Excel
 * Jupyter Notebook
-* Git (Basic)
+* Git & GitHub
 
 ---
 
@@ -60,49 +45,40 @@ Data Analyst with 2+ years of experience in data analysis, KPI reporting, dashbo
 
 ## 📊 Featured Projects
 
-### EduMax – Customer Churn & Behavioral Analytics
+### EduMax Analytics Portfolio
 
-Built an end-to-end EdTech analytics project to analyze learner engagement, retention, and dropout behavior.
+A business-focused analytics portfolio built around a simulated EdTech platform, where each project investigates a stakeholder concern using a structured analytical framework.
 
-Key Insights:
+**Completed Investigations**
 
-* Identified that high engagement does not always result in high retention.
-* Discovered multi-stage churn patterns during early and mid-learning journeys.
-* Developed behavioral learner segments to identify high-risk churn groups.
-* Created Power BI dashboards for engagement, retention, and course performance analysis.
+**Revenue Growth Investigation**
+
+* Investigated why revenue growth was not increasing proportionally with enrollments.
+* Conducted revenue trend analysis, time-series analysis, revenue concentration assessment, and revenue driver analysis.
+* Evaluated stakeholder assumptions through hypothesis-driven analysis.
+
+**Learner Engagement & Dropout Investigation**
+
+* Analyzed learner behavior across the learning journey to identify engagement and retention patterns.
+* Identified critical drop-off points and high-risk learner segments.
+* Developed behavioral segmentation to support learner retention initiatives.
 
 **Tools:** SQL, Python, Pandas, Power BI
 
-
-🔗 Project Link:
-[EduMax Project](https://github.com/Anusha-Data-Analytics/edumax-dropout-analysis/tree/main)
-
+🔗 Portfolio: [EduMax Analytics Portfolio](https://github.com/Anusha-Data-Analytics/EduMax-Analytics-Portfolio/tree/main)
 
 ---
 
-### Revenue & Sales Analytics
-
-Analyzed sales performance across products, categories, and regions to identify growth opportunities and performance gaps.
-
-Key Areas:
-
-* Revenue Analysis
-* Profitability Analysis
-* Discount Impact Analysis
-* Category Performance Monitoring
-* KPI Reporting
-
-**Tools:** SQL, Power BI, Excel
-
----
-
-## 📈 Current Focus
+### Current Focus
 
 * Advanced SQL for Analytics
-* Business Analytics & Product Analytics
-* Data Storytelling & Stakeholder Communication
-* Machine Learning Fundamentals
+* Business & Product Analytics
+* Data Storytelling
+* Stakeholder Communication
 * End-to-End Analytics Projects
+* Machine Learning Fundamentals
+
+I use GitHub to document analytics projects, business investigations, and end-to-end case studies that demonstrate how data can be used to solve real business problems and support decision-making.
 
 ---
 
