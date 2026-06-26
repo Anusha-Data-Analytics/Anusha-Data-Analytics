@@ -163,3 +163,25 @@ Applied analytics in a professional environment by developing KPI reports, sales
 
 > *Continuously expanding my expertise through hands-on projects, business case studies, and practical analytics applications.*
 
+---
+
+## Achievements
+
+* 🚀 Built **EduMax**, a consulting-style end-to-end Business Analytics project simulating real-world EdTech business challenges using SQL, Python, Power BI, and Excel.
+* 💼 Delivered business reporting, KPI analysis, sales analytics, dashboard development during **2+ years of professional Data Analyst / Sales Analyst experience**.
+* 📊 Developed interactive dashboards and business reports to support stakeholder decision-making.
+* 🧹 Performed end-to-end data cleaning, exploratory data analysis (EDA), and business insight generation across multiple business datasets.
+* 📈 Applied SQL and Python to analyze business performance, customer behavior, and revenue trends, supporting data-driven decision-making.
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anusha-Data-Analytics&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusha-Data-Analytics&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+---
+
+
