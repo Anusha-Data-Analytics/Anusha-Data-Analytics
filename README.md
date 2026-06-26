@@ -1,7 +1,9 @@
 # Hi, I'm Anusha 👋
 
 **Data Analyst | Business Analytics | SQL | Python | Power BI | KPI Reporting**
-
+<p align="center">
+  <img src="images/github-banner.png" alt="Business-Oriented Data Analyst Banner" width="100%">
+</p>
 Data Analyst with 2+ years of experience in business analytics, KPI reporting, dashboard development, and data-driven decision support. Experienced in transforming complex datasets into actionable insights that help stakeholders understand performance, identify opportunities, and make informed business decisions.
 
 My work focuses on business problem-solving through data, including revenue analysis, customer behavior analytics, retention analysis, segmentation, performance monitoring, and root cause investigations. I enjoy approaching analytics from a stakeholder perspective—understanding the business question, validating assumptions, and translating findings into meaningful insights.
