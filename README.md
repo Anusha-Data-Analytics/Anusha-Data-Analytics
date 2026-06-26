@@ -184,4 +184,57 @@ Applied analytics in a professional environment by developing KPI reports, sales
 
 ---
 
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anusha-Data-Analytics&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+## Most Used Languages
+
+The following statistics provide an overview of the programming languages used across my public repositories. They reflect the technologies I use in my analytics projects and are intended to complement my portfolio rather than measure technical proficiency.
+
+> **Note:** Repository language distribution does not necessarily represent skill level. My primary analytics stack consists of **SQL, Python, Power BI, and Excel**, which I use to solve real-world business problems.
+
+---
+
+## Profile Visitors
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Anusha-Data-Analytics&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 📬 Contact Information
+
+<p align="left">
+
+<a href="mailto:anu.mahanthesh.2468@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/anusha-e-m/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Anusha%20E%20M-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Anusha-Data-Analytics" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Anusha--Data--Analytics-black?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+Thank you for visiting my GitHub portfolio.
+
+I'm always interested in connecting with recruiters, hiring managers, analytics professionals, and organizations looking to leverage data for better business decisions.
+
+Whether it's discussing Data Analytics, Business Intelligence, SQL, Python, Power BI, Business Analysis, or potential collaboration opportunities, I'd be happy to connect and exchange ideas.
+
+If my work aligns with your organization's needs or you'd like to discuss analytics projects, feel free to reach out through LinkedIn or email.
 
