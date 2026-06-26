@@ -4,86 +4,155 @@
 <p align="center">
   <img src="images/github_banner.png" alt="Business-Oriented Data Analyst Banner" width="100%">
 </p>
-Data Analyst with 2+ years of experience in business analytics, KPI reporting, dashboard development, and data-driven decision support. Experienced in transforming complex datasets into actionable insights that help stakeholders understand performance, identify opportunities, and make informed business decisions.
 
-My work focuses on business problem-solving through data, including revenue analysis, customer behavior analytics, retention analysis, segmentation, performance monitoring, and root cause investigations. I enjoy approaching analytics from a stakeholder perspective—understanding the business question, validating assumptions, and translating findings into meaningful insights.
+## Professional Identity
+
+Business-Oriented Data Analyst with around 2 years of experience transforming business data into actionable insights through SQL, Python, Power BI, and Excel.
+
+I specialize in end-to-end analytics, including data cleaning, exploratory data analysis, KPI reporting, dashboard development, and stakeholder-focused business analysis. My approach combines technical analysis with business understanding to identify opportunities, solve operational challenges, and support data-driven decision-making.
+
+I enjoy building analytics solutions that not only answer business questions but also provide practical recommendations that organizations can implement to improve performance.
 
 ---
 
-### Core Areas of Interest
+## Mission
+
+To transform raw business data into meaningful insights that enable organizations to make informed decisions, improve operational efficiency, and achieve measurable business outcomes through analytics, business intelligence, and data-driven problem solving.
+
+---
+
+## Current Focus
+
+* Building an end-to-end Business Analytics portfolio centered around real-world business problems.
+* Developing consulting-style analytics case studies using SQL, Python, Power BI, and Excel.
+* Strengthening business storytelling, stakeholder communication, and executive reporting skills.
+* Expanding expertise in business analytics, KPI analysis, customer behavior analysis, and decision support.
+
+---
+
+## Career Goals
+
+I am seeking opportunities where I can contribute as a Data Analyst or Business Analyst by solving business problems through data analysis, business intelligence, reporting automation, and decision support. My long-term objective is to become a trusted analytics professional who bridges the gap between business strategy and data-driven decision-making.
+
+---
+
+## Business Mindset
+
+I believe analytics creates value only when it solves real business problems. My approach begins with understanding the business context, identifying stakeholder objectives, defining meaningful KPIs, and using data to support practical decision-making.
+
+Rather than focusing solely on dashboards or reports, I aim to uncover insights that help organizations improve operational efficiency, optimize performance, understand customer behavior, monitor business health, and drive measurable outcomes. Every analysis I perform is guided by the question: **"How can this help the business make a better decision?"**
+
+---
+
+## Technical Expertise
+
+My technical expertise spans the complete analytics lifecycle, from data preparation to business reporting and decision support. I leverage SQL for querying and transforming data, Python for data analysis and exploratory analytics, Power BI for interactive dashboard development and business analysis.
+
+I have experience working with large datasets, performing data cleaning, exploratory data analysis (EDA), KPI analysis, trend analysis, customer segmentation, revenue analysis, and developing dashboards that communicate insights effectively to stakeholders. My focus is on building scalable, well-documented analytics solutions that translate complex data into clear business recommendations.
+
+---
+
+## Core Skills
 
 * Business Analytics
-* Revenue & Growth Analysis
-* Customer & User Behavior Analytics
-* Churn & Retention Analysis
-* KPI Development & Performance Monitoring
-* Root Cause Analysis
-* Data Storytelling & Stakeholder Reporting
+* Data Analysis
+* Business Intelligence
+* SQL Querying & Data Manipulation
+* Python for Data Analysis
+* Power BI Dashboard Development
+* Exploratory Data Analysis (EDA)
+* Data Cleaning & Data Preparation
+* KPI & Performance Analysis
+* Business Reporting
+* Data Visualization
+* Customer & Revenue Analytics
+* Stakeholder Reporting
+* Business Problem Solving
 
 ---
 
-### Tech Stack
+## Tech Stack
+
+### 📊 Data Analysis & Business Intelligence
 
 * SQL
-* Python (Pandas, NumPy)
+* Python
 * Power BI
-* Advanced Excel
+* Microsoft Excel
+
+### 🗄️ Databases
+
+* MySQL
+
+### 📚 Python Libraries
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+### 📈 Data Visualization
+
+* Power BI
+* Matplotlib
+* Seaborn
+
+### 🛠️ Development Environment
+
 * Jupyter Notebook
-* Git & GitHub
+
+### 🔧 Version Control
+
+* Git
+* GitHub
 
 ---
 
-## 💼 Professional Experience
+## Tools
 
-### Sales Analyst | Blum Novotest India
-
-* Extract sales data using SQL and analyze revenue, profit, discounts, and category performance.
-* Build Power BI dashboards for monthly, quarterly, and annual business reviews.
-* Perform root cause analysis on underperforming product categories.
-* Collaborate with Sales Managers and stakeholders to support data-driven decision-making.
-* Deliver KPI reports and business insights across regions and product segments.
-
----
-
-## 📊 Featured Projects
-
-### EduMax Analytics Portfolio
-
-A business-focused analytics portfolio built around a simulated EdTech platform, where each project investigates a stakeholder concern using a structured analytical framework.
-
-**Completed Investigations**
-
-**Revenue Growth Investigation**
-
-* Investigated why revenue growth was not increasing proportionally with enrollments.
-* Conducted revenue trend analysis, time-series analysis, revenue concentration assessment, and revenue driver analysis.
-* Evaluated stakeholder assumptions through hypothesis-driven analysis.
-
-**Learner Engagement & Dropout Investigation**
-
-* Analyzed learner behavior across the learning journey to identify engagement and retention patterns.
-* Identified critical drop-off points and high-risk learner segments.
-* Developed behavioral segmentation to support learner retention initiatives.
-
-**Tools:** SQL, Python, Pandas, Power BI
-
-🔗 Portfolio: [EduMax Analytics Portfolio](https://github.com/Anusha-Data-Analytics/EduMax-Analytics-Portfolio/tree/main)
+| Category                 | Tools                                |
+| ------------------------ | ------------------------------------ |
+| 📊 Business Intelligence | Power BI                             |
+| 🗄️ Database              | MySQL                                |
+| 💻 Programming           | Python                               |
+| 📈 Data Analysis         | Python                               |
+| 📓 Development           | Jupyter Notebook                     |
+| 🔄 Version Control       | Git, GitHub                          |
+| 📋 Documentation         | Microsoft Word, Microsoft PowerPoint |
 
 ---
 
-### Current Focus
+## Analytics Specialties
 
-* Advanced SQL for Analytics
-* Business & Product Analytics
-* Data Storytelling
-* Stakeholder Communication
-* End-to-End Analytics Projects
-* Machine Learning Fundamentals
-
-I use GitHub to document analytics projects, business investigations, and end-to-end case studies that demonstrate how data can be used to solve real business problems and support decision-making.
+* 📈 Business Analytics
+* 📊 Business Intelligence & Dashboard Development
+* 📉 Exploratory Data Analysis (EDA)
+* 📋 KPI & Performance Analysis
+* 💰 Revenue & Sales Analytics
+* 👥 Customer & User Behavior Analysis
+* 🎯 Customer Segmentation
+* 📑 Business Reporting & Reporting Automation
+* 🧹 Data Cleaning & Data Preparation
+* 📊 Data Visualization & Storytelling
+* 📌 Decision Support Analytics
+* 🔍 Root Cause Analysis
+* 📈 Trend & Performance Analysis
+* 🏢 Stakeholder-Focused Business Insights
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/anusha-e-m
-- Email: anu.mahanthesh.2468@gmail.com
+## Featured Projects
+
+### 🚀 EduMax – End-to-End Business Analytics (Flagship Project)
+
+A consulting-style business analytics project simulating real-world challenges faced by an EdTech organization. The project covers the complete analytics lifecycle, including data cleaning, SQL analysis, Python-based exploratory data analysis, KPI tracking, customer segmentation, revenue analysis, learner engagement analysis, executive dashboard development, and business recommendations to support strategic decision-making.
+
+---
+
+### 💼 Professional Experience (2+ Years)
+
+Applied analytics in a professional environment by developing KPI reports, sales performance analysis, reporting automation, dashboard solutions, and business insights using SQL, Python, Power BI, and Excel. Worked with stakeholders to translate business requirements into analytical solutions that support operational and strategic decision-making.
+
+---
+
+
