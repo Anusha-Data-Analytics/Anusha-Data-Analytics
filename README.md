@@ -2,7 +2,7 @@
 
 **Data Analyst | Business Analytics | SQL | Python | Power BI | KPI Reporting**
 <p align="center">
-  <img src="images/github-banner.png" alt="Business-Oriented Data Analyst Banner" width="100%">
+  <img src="images/github_banner" alt="Business-Oriented Data Analyst Banner" width="100%">
 </p>
 Data Analyst with 2+ years of experience in business analytics, KPI reporting, dashboard development, and data-driven decision support. Experienced in transforming complex datasets into actionable insights that help stakeholders understand performance, identify opportunities, and make informed business decisions.
 
