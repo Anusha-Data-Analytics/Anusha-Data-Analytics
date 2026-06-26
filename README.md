@@ -155,4 +155,11 @@ Applied analytics in a professional environment by developing KPI reports, sales
 
 ---
 
+## Certifications
+
+* Python Bootcamp for Data Analysis [https://drive.google.com/file/d/1IMjqxw95gqeg6477mXCE9oScLzZJ6V1J/view?usp=sharing]
+* SQL Certification [https://drive.google.com/file/d/1IMjqxw95gqeg6477mXCE9oScLzZJ6V1J/view?usp=sharing]
+* Git and Github [https://drive.google.com/file/d/1uvL2ke7x8bgoMCTc6UOSc4pYI49Y1dKQ/view?usp=sharing]
+
+> *Continuously expanding my expertise through hands-on projects, business case studies, and practical analytics applications.*
 
