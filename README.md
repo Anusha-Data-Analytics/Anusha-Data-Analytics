@@ -7,7 +7,7 @@
 
 ## Professional Identity
 
-Business-Oriented Data Analyst with around 2 years of experience transforming business data into actionable insights through SQL, Python, Power BI, and Excel.
+Business-Oriented Data Analyst with 2+ years of combined technical experience in SQL and Python, applied to transforming business data into actionable insights through Power BI.
 
 I specialize in end-to-end analytics, including data cleaning, exploratory data analysis, KPI reporting, dashboard development, and stakeholder-focused business analysis. My approach combines technical analysis with business understanding to identify opportunities, solve operational challenges, and support data-driven decision-making.
 
@@ -78,7 +78,6 @@ I have experience working with large datasets, performing data cleaning, explora
 * SQL
 * Python
 * Power BI
-* Microsoft Excel
 
 ### 🗄️ Databases
 
