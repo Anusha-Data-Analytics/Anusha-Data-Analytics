@@ -167,7 +167,7 @@ Applied analytics in a professional environment by developing KPI reports, sales
 ## Achievements
 
 * 🚀 Built **EduMax**, a consulting-style end-to-end Business Analytics project simulating real-world EdTech business challenges using SQL, Python, Power BI, and Excel.
-* 💼 Delivered business reporting, KPI analysis, sales analytics, dashboard development during **2+ years of professional Data Analyst / Sales Analyst experience**.
+* 💼 Delivered business reporting, KPI analysis, sales analytics, and dashboard development across ** 2+ years of combined technical experience, including a Sales Coordinator role functioning in a Business/Sales Analyst capacity **.
 * 📊 Developed interactive dashboards and business reports to support stakeholder decision-making.
 * 🧹 Performed end-to-end data cleaning, exploratory data analysis (EDA), and business insight generation across multiple business datasets.
 * 📈 Applied SQL and Python to analyze business performance, customer behavior, and revenue trends, supporting data-driven decision-making.
