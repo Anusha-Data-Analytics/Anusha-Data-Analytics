@@ -150,14 +150,26 @@ A consulting-style business analytics project simulating real-world challenges f
 
 ### 💼 Professional Experience (2+ Years)
 
-Applied analytics in a professional environment by developing KPI reports, sales performance analysis, reporting automation, dashboard solutions, and business insights using SQL, Python, Power BI, and Excel. Worked with stakeholders to translate business requirements into analytical solutions that support operational and strategic decision-making.
+Applied analytics in a professional environment by developing KPI reports, sales performance analysis, dashboard solutions, and business insights using SQL, Python, Power BI, and Excel. Worked with stakeholders to translate business requirements into analytical solutions that support operational and strategic decision-making.
+
+---
+
+## Volunteer Work — Applied AI & Impact Reporting
+
+**Impact Reporting, Volunteer | Faisal Foundation | Jun 2026 – Present**
+
+Built an AI Agent using Monday.com's built-in AI Agent feature to assist a medical advisor in verifying evidence for impact reporting — validating each entry against its source, checking data integrity (e.g., flagging sample-vs-population data issues or missing sources), and returning a status with primary source, additional source if needed, and reviewer notes. Reviewed ~100 data points to date.
+
+Also built Impact and Cause dashboards using Monday.com's AI App feature to surface key evidence and program outcomes for stakeholder-facing reporting.
+
+*Note: built using Monday.com's no-code AI Agent and AI App features — not a coded repository, so there's no linked codebase for this work.*
 
 ---
 
 ## Certifications
 
 * Python Bootcamp for Data Analysis [https://drive.google.com/file/d/1IMjqxw95gqeg6477mXCE9oScLzZJ6V1J/view?usp=sharing]
-* SQL Certification [https://drive.google.com/file/d/1IMjqxw95gqeg6477mXCE9oScLzZJ6V1J/view?usp=sharing]
+* SQL Certification [https://drive.google.com/file/d/1QfZ4i9vfmSk86KN731FlliF3O8O_RqTb/view?usp=sharing]
 * Git and Github [https://drive.google.com/file/d/1uvL2ke7x8bgoMCTc6UOSc4pYI49Y1dKQ/view?usp=sharing]
 
 > *Continuously expanding my expertise through hands-on projects, business case studies, and practical analytics applications.*
